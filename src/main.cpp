@@ -2,7 +2,7 @@
 
 int main() {
 
-	Lib::print("Nuevo programa!!! \n");
+	Lib::print("Nuevo programa ehh!!! \n");
 
 	return 0;
 }
